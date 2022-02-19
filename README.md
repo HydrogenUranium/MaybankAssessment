@@ -35,7 +35,7 @@ http://127.0.0.1:8082/book
      }
 
 * To delete book details for the collection in the database by using the book id 
-  * DELLETE http://127.0.0.1:8082/book/aws
+  * DELETE http://127.0.0.1:8082/book/aws
   
 * To update book details for the collection in the database by using the book id
   * PUT http://127.0.0.1:8082/book/java
