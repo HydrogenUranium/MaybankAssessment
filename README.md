@@ -3,7 +3,7 @@ Java Backend Interview Assignment
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-This project is related to the book API dummy to explore the collection of books available in the database. WIth the API, it allows users to UPDATE, INSERT, GET and DELETE the book collection from the database. Not only that, the API also allows users to call external API (Google book API) by putting the book title as parameter. Furhter, the API allows the users to obtain results within the page size.
+This project is related to the book API dummy to explore the collection of books available in the database. With the API, it allows users to UPDATE, INSERT, GET and DELETE the book collection from the database. Not only that, the API also allows users to call external API (Google book API) by putting the book title as parameter. Further, the API allows the users to obtain results within the page size.
 
 <!-- GETTING STARTED-->
 ## Getting Started
@@ -37,7 +37,7 @@ http://127.0.0.1:8082/book
 * To delete book details for the collection in the database by using the book id 
   * DELLETE http://127.0.0.1:8082/book/aws
   
-* To update book details for the collection in the database by sing the book id
+* To update book details for the collection in the database by using the book id
   * PUT http://127.0.0.1:8082/book/java
   ```json
   {
@@ -49,6 +49,6 @@ http://127.0.0.1:8082/book
 * To get book details for the collection in the database by using page size   
   * GET http://127.0.0.1:8082/bookPage/10
   
-* To call external API (Google book API) and put the title of the book in parmeter 
+* To call external API (Google book API) by putting the title of the book as parameter 
   * GET http://127.0.0.1:8082/API/java
  
