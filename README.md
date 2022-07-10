@@ -1,4 +1,4 @@
-# Maybank Assessment
+# Maybank Assessment REST API
 Java Backend Interview Assignment
 
 <!-- ABOUT THE PROJECT -->
